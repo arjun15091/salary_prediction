@@ -24,8 +24,8 @@ The purpose of this project is to use data transformation and machine learning t
 ## Proposed Method for Salary Prediction:
 Step 1: Salary data have been taken from dataset.
 <br>
-Step 2: Then the points corresponding to the salary data of an individual person have been plotted in the graph. The data are initialized in pandas (ascending, descending,               <br>
-        mixed-up). Taking the dataset from each pandas field and from the pandas dataset we plotted the points on the graph as per number wise or input wise that came real               <br>
+Step 2: Then the points corresponding to the salary data of an individual person have been plotted in the graph. The data are initialized in pandas (ascending, descending,     
+        mixed-up). Taking the dataset from each pandas field and from the pandas dataset we plotted the points on the graph as per number wise or input wise that came real      
         dataset.
         <br>
 Step 3: After that we using linear regression for draw lines between the points.
@@ -35,8 +35,8 @@ Step 4: If the points are not in linear way then we use polynomial regression fo
 Step 5: After then through the linear/polynomial graph through the x-y axis we can predict salary.
 <br>
 Step 6: Also, we predict a person on future salary position as per the graph goes. Only take a particular person position, then the prediction answer be executed through the 
-<br>
 help of the graph.
+<br>
 
 ## Methods Used
 Data Analysis and Visualization
