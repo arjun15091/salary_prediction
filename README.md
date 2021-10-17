@@ -7,6 +7,7 @@ https://fathomless-reef-23840.herokuapp.com
 ## Description
 
 Now days, Major reason an employee switches the company is the salary of the employee.Employees keep switching the company to get the expected salary. And it leads to loss of the company and to overcome this loss we came with an idea what if the employee gets the desired/expected salary from the Company or Organization. In this Competitive world everyone has a higher expectation and goals. But we cannot randomly provide everyone their expected salary there should be a system which should measure the ability of the Employee for the Expected salary. We cannot decide the exact salary but we can predict it by using certain data sets.
+<br>
 The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary in various countries when given years of experience,education level. 
 
 ## I/O Screenshort
