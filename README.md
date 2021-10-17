@@ -25,8 +25,8 @@ The purpose of this project is to use data transformation and machine learning t
 Step 1: Salary data have been taken from dataset.
 <br>
 Step 2: Then the points corresponding to the salary data of an individual person have been plotted in the graph. The data are initialized in pandas (ascending, descending,     
-        mixed-up). Taking the dataset from each pandas field and from the pandas dataset we plotted the points on the graph as per number wise or input wise that came real      
-        dataset.
+mixed-up). Taking the dataset from each pandas field and from the pandas dataset we plotted the points on the graph as per number wise or input wise that came real      
+dataset.
 <br>
 Step 3: After that we using linear regression for draw lines between the points.
 <br>
