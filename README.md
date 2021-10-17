@@ -1,6 +1,5 @@
 ## Software-Developer-Salary-Prediction
 
-<br>
 ### Live link :
 https://fathomless-reef-23840.herokuapp.com
 
